@@ -22,7 +22,7 @@ class littlegame{
                 System.out.print("密碼錯誤，請重新輸入:");
                 inputStr=input.readLine();
                 //這裡示範了輸入錯誤的提示訊息跟要求重新輸入的寫法
-                //1
+                //12
             }
 
             System.out.println("密碼輸入正確，程式結束!");
